@@ -28,7 +28,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [QR Page Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-css-grid-and-flexbox-xtoAlen0E2)
 - Live Site URL: [Frontend Mentor | QR code component](https://dartorrejon.github.io/qr-challenge/)
 
 ## My process
@@ -107,12 +107,12 @@ I would like to continue to advance and refine my work with css. Especially with
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Torrejon Dario Rodrigo](https://github.com/dartorrejon)
+- Frontend Mentor - [@dartorrejon](https://www.frontendmentor.io/profile/dartorrejon)
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+For those of you who have made it this far, I want to recommend that you take a good look at the layout with flex and grid. Without a doubt, it is something that you will always use in your day to day.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
