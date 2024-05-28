@@ -32,11 +32,12 @@ body{
 
 .resolucion{
     font-size: 1em;
-    color: #000;
+    color: rgba(0, 0, 0, .4);
     position: absolute;
     top: 4px;
     right: 4px;
 }
+
 .hero{
     background-color: var(--light-gray-color);
     height: 78dvh;
@@ -80,10 +81,10 @@ body{
     object-fit: cover;
     object-position: center;
 }
-
 .qr-title{
     font-size: 22px;
     font-weight: 700;
+    color: var(--dark-blue);
 }
 .qr-text{
     color: var(--light-gray-color);
